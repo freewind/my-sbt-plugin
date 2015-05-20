@@ -1,0 +1,1 @@
+addSbtPlugin("test20140913" % "my-sbt-plugin" % "0.1.0.DEV-SNAPSHOT")
