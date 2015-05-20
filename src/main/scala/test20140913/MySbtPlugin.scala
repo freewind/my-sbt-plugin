@@ -1,5 +1,5 @@
 // It must be inside a package, can't be a top level object
-//package test20140913
+package test20140913
 
 import sbt._
 
